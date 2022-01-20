@@ -5,3 +5,5 @@ function auth(login, password){
         return "not logged in"
     }
 }
+
+//why do we need to release in git
